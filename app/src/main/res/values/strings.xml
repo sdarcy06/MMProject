@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MMProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv1">ROCK \'N\' ROLL</string>
+    <string name="btn1">Music</string>
+    <string name="btn2">Animation</string>
+    <string name="spltv">Rock \'n\' Roll</string>
+    <string name="anitv1">Animation</string>
+    <string name="zoombtn">Zoom</string>
+    <string name="clockwisebtn">Clockwise</string>
+    <string name="fadebtn">Fade</string>
+    <string name="blinkbtn">Blink</string>
+    <string name="movebtn">Move</string>
+    <string name="slidebtn">Slide</string>
+</resources>
